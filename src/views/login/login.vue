@@ -54,7 +54,7 @@ export default {
       appId: "wx6357a387a159722c", // 必填，公众号的唯一标识
       timestamp: 1558339436, // 必填，生成签名的时间戳
       nonceStr: "1hqd5tiw2oi", // 必填，生成签名的随机串
-      signature: "026d1cad7c89a1ca2d637eac8b104c18732fc29c", // 必填，签名
+      signature: "a4e2862e794e27e0d85273a5f9b1c3e059d0084d", // 必填，签名
       jsApiList: ["uploadImage"] // 必填，需要使用的JS接口列表
     });
     wx.ready((res)=>{
